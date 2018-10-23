@@ -5,6 +5,8 @@
 
 This is a porting of https://github.com/don/cordova-plugin-ble-central project to React Native.
 
+This variation prefers Indicate over Notify (Android so far)
+
 ## Requirements
 RN 0.40+
 
